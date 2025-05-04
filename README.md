@@ -26,7 +26,7 @@ A RESTful API application built with Go that provides CRUD (Create, Read, Update
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Harshdeep-Yadav/Golang-Crudl>
 cd book_crud
 ```
 
